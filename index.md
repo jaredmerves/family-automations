@@ -1,6 +1,5 @@
-# Family Automations
-
-Family Automations is a private household notification service used to provide opted-in family members with useful household information and reminders by SMS.
+# Jared Merves — Family Automations
+Family Automations is a private household notification program operated by Jared Merves as a Sole Proprietor.
 
 Messages may include school lunch menus, schedule reminders, and other household information.
 
