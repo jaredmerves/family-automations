@@ -1,9 +1,7 @@
-# Family Automations Privacy Policy
-
+# Jared Merves — Family Automations Privacy Policy
 **Effective date: August 25, 2026**
 
-Family Automations is a private household notification service operated by Jared Merves, the registered Sole Proprietor.
-
+Registered Brand: Jared Merves. Family Automations is a private household notification service operated by Jared Merves as a Sole Proprietor.
 Family Automations is a private household notification service. It sends informational SMS messages only to household members who have agreed to receive them.
 
 ## Information We Use
