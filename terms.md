@@ -1,10 +1,7 @@
-# Family Automations SMS Terms & Conditions
-
+# Jared Merves — SMS Terms & Conditions
 **Effective date: August 25, 2026**
 
-Family Automations is a private household notification service that sends informational SMS messages to family members who have agreed to receive them.
-
-Messages may include school lunch menus, household reminders, schedule information, and other family logistics.
+These Terms & Conditions apply to the Family Automations household messaging program operated by Jared Merves, the registered Sole Proprietor.
 
 ## Consent
 
